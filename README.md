@@ -3,14 +3,14 @@
 🚀 **Aspiring Software Developer** | Learning MERN Stack | Python Enthusiast  
 
 💡 Passionate about building full-stack applications, solving real-world problems, and exploring cloud technologies.  
-🌱 Currently learning **MERN Stack** and practicing **DSA daily**.  
+🌱 Currently learning **Java Full Stack** and practicing **DSA daily**.  
 ⚡ Interested in **Web Development & Cloud Technologies**.  
 
 ---
 
 ## 🔧 Tech Stack  
-- **Frontend:** HTML, CSS (Tailwind), JavaScript, React  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** HTML, CSS (Bootstrap), JavaScript, React  
+- **Backend:** Node.js, Express.js, Spring Boot
 - **Database:** MongoDB, MySQL  
 - **Other Skills:** Git/GitHub, Linux, Python, Bash, Cloud Basics  
 
